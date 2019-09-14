@@ -14,5 +14,3 @@
 ![alt text](https://github.com/soumitya0/WeatherApplication/blob/master/outputWeather/3.PNG)
 <br>
 
-![alt text](https://github.com/soumitya0/WeatherApplication/blob/master/weather%20logo/airpresser.png)
-
