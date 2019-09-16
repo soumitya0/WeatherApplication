@@ -1,5 +1,5 @@
 # WeatherApplication
-Create your weather app on Android is esay and a damm cool thing ...<br>
+Create your weather app on Android is esay and  cool thing ...<br>
 
 # Features 
 <B>1.</B>7day forecast <br>
