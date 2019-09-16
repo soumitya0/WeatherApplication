@@ -1,7 +1,7 @@
 # WeatherApplication
 Create your weather app on Android is esay and a damm cool thing ...<br>
 
-#Features of this appliction
+# Features 
 1.7day forecast
 2.Daily Weather
 3.Temperature 
@@ -10,7 +10,7 @@ Create your weather app on Android is esay and a damm cool thing ...<br>
 
 # Openweathermap API
   http://openweathermap.org/ API
-  or your can use my which i have use in this application
+  
   
 
 <br>
