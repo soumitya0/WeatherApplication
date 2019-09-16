@@ -2,7 +2,7 @@
 Create your weather app on Android is esay and a damm cool thing ...<br>
 
 # Features 
-1.7day forecast
+<B>1.</B>7day forecast <br>
 2.Daily Weather
 3.Temperature 
 4.Pressure
