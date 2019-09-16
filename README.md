@@ -3,10 +3,10 @@ Create your weather app on Android is esay and a damm cool thing ...<br>
 
 # Features 
 <B>1.</B>7day forecast <br>
-2.Daily Weather
-3.Temperature 
-4.Pressure
-5.Humidity
+<B>2.</B>Daily Weather<br>
+<B>3.</B>Temperature <br>
+<B>4.</B>Pressure<br>
+<B>5.</B>Humidity<>br
 
 # Openweathermap API
   http://openweathermap.org/ API
@@ -30,5 +30,5 @@ Create your weather app on Android is esay and a damm cool thing ...<br>
 
 # Authors
  soumitya chauhan  
- github id : soumitya0
- gmail id: soumityachauhan@gmail.com
+ github id : <b>soumitya0</b><br>
+ gmail id: <b>soumityachauhan@gmail.com<b></br>
