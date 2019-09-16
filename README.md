@@ -6,7 +6,7 @@ Create your weather app on Android is esay and  cool thing ...<br>
 <B>2.</B>Daily Weather<br>
 <B>3.</B>Temperature <br>
 <B>4.</B>Pressure<br>
-<B>5.</B>Humidity<>br
+<B>5.</B>Humidity<br>
 
 # Openweathermap API
   http://openweathermap.org/ API
